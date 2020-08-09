@@ -25,20 +25,18 @@ function About() {
             <p>
               I am currently working as a Software Engineer at Impetus
               Technologies based in Indore. I work as full-stack developer, working on
-              technologies like React JS, Node JS. I pursued my Bachelors Degree
+              technologies like React JS, Node JS. I pursued my Bachelors
               of Engineering with specialisation in Computer Science.
+            </p>
+            <p>
+              I am a technology enthusiast, avid reader and a movie buff!
             </p>
             <p>
               On this site you’ll find out a lot about me, including my skills,
               achievements, interests and hobbies. Hopefully it’ll provide you
               with an insight into my strengths and capabilities, beyond that
-              which you would find on my Facebook, LinkedIn, Stackoverflow,
-              GitHub, Instagram etc. I grew up in Mandsaur(M.P.), and currently located in Indore(M.P.)
-            </p>
-            <p>
-              There’s not too much use in going into more depth than this…
-              everything is covered in lots of depth elsewhere! Take a quick
-              look around.
+              feel free to checkout my Facebook, LinkedIn, Stackoverflow,
+              GitHub, Instagram etc.
             </p>
           </div>
         </div>
