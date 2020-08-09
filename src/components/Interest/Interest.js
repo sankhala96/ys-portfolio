@@ -59,7 +59,7 @@ function Interest() {
   });
   return (
     <section className="Interest">
-      <div className="jumbotron interest-container">
+      <div className="jumbotron interest-container" style={{ background: `url(${process.env.PUBLIC_URL}/interest-banner-img.jpg` }}>
         <div className="interest-header-title">
           <h2>
             MY
