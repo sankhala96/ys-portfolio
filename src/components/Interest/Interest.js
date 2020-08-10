@@ -34,7 +34,7 @@ const cardData = [
     id: 4,
     name: "Reading",
     icon: faBookReader,
-    text: "If I am allowed to give one advice to everyone it will be 'Read More'. Its hard for me explain but reading has chnaged my life in a very differnt way. Reading opens a diiferent world for me. i can look into the world with eyes of different people and learn something different everytime.",
+    text: "If I am allowed to give one advice to everyone it will be 'Read More'. It's hard for me to explain but reading has changed my life in a very differnt way. Reading opens a diiferent world for me. I can look into the world with eyes of different people and learn something different everytime.",
   },
 ];
 
